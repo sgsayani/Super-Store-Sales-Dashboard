@@ -14,3 +14,5 @@ Key Steps:
 
 ![Screenshot (416)](https://github.com/sgsayani/Super-Store-Sales-Dashboard/assets/71175346/6f18ce45-d64f-4885-b91b-42fcfd426d4f)
 
+Explore the intersection of #PowerBI, #DataAnalytics, and #SalesDashboard to propel business success. Witness analytics in action with this showcase of effective retail strategies!
+
