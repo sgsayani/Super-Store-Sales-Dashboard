@@ -11,3 +11,6 @@ Key Steps:
 2. In-Depth Data Analysis
 3. Accurate Sales Forecasting
 4. Actionable Insights and Recommendations
+
+![Screenshot (416)](https://github.com/sgsayani/Super-Store-Sales-Dashboard/assets/71175346/6f18ce45-d64f-4885-b91b-42fcfd426d4f)
+
